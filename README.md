@@ -36,7 +36,7 @@ This program automatically checks the Python code submitted in a Pull Request us
 [W291]	Trailing whitespace  
 [W293]	Whitespace on an empty line  
 
-## JAPANESE 
+## 日本語 
 このプログラムでは、Pull Request（プルリクエスト） で送信された Python コードを GitHub Actions を通して自動的にチェックします。  
 
 ### エラーコード一覧  
