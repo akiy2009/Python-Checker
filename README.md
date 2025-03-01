@@ -1,6 +1,9 @@
 # Python-Checker
 ## ENGLISH  
-This program automatically checks the Python code submitted in a Pull Request using GitHub Actions. 
+This program automatically checks the Python code submitted in a Pull Request using GitHub Actions.  
+
+### SET UP
+[Setting]>>[General]>>[Action]>>[General]>>[Workflow permissins]>>[Read and write permissins]
 
 ### ERROR CODE LIST
 [E101]	Mixed indentation (tabs and spaces)  
@@ -36,8 +39,13 @@ This program automatically checks the Python code submitted in a Pull Request us
 [W291]	Trailing whitespace  
 [W293]	Whitespace on an empty line  
 
+#### create by akiy2009
+
 ## 日本語 
 このプログラムでは、Pull Request（プルリクエスト） で送信された Python コードを GitHub Actions を通して自動的にチェックします。  
+
+### セットアップ
+[Setting]>>[General]>>[Action]>>[General]>>[Workflow permissins]>>[Read and write permissins]
 
 ### エラーコード一覧  
 [E101]	インデントが混在（タブとスペース)  
@@ -72,3 +80,5 @@ This program automatically checks the Python code submitted in a Pull Request us
 [E741]	1 文字の変数名（例: l, O, I）は避けるべき  
 [W291]	行末にスペースがある  
 [W293]	空行にスペースがある  
+
+#### created by akiy2009
